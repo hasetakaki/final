@@ -1,0 +1,18 @@
+body{
+  background-color: #F5F4CE
+}
+header{
+  height: 100px;
+  background-color: #0F939A;
+  color: #FFFFFF
+}
+header p{
+  text-align: center;
+  font-size: 50px;
+}
+p{
+font-size: 50px;
+}
+#css{
+margin-left: 500px;
+}
